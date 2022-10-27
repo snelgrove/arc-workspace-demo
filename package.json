@@ -2,5 +2,8 @@
     "name": "arc-monorepo",
     "workspaces": [
         "apps/*"
-    ]
+    ],
+    "devDependencies": {
+        "@architect/plugin-typescript": "^0.0.0"
+    }
 }
